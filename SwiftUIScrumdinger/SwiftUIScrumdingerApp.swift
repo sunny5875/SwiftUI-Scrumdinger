@@ -14,7 +14,6 @@ struct SwiftUIScrumdingerApp: App {
     var body: some Scene {
         WindowGroup {
             MeetingView()
-            
 //                .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
